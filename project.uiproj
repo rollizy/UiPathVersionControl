@@ -1,0 +1,6 @@
+{
+  "Name": "Version Control",
+  "ProjectType": "Process",
+  "Description": "Deploy OCR Process on Git",
+  "MainFile": "Main.xaml"
+}
